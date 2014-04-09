@@ -1,0 +1,4 @@
+c:\users\diogo.silva\documents\visual studio 2010\Projects\CrossRunner\CrossRunner\bin\CrossRunner.dll
+c:\users\diogo.silva\documents\visual studio 2010\Projects\CrossRunner\CrossRunner\bin\CrossRunner.pdb
+c:\users\diogo.silva\documents\visual studio 2010\Projects\CrossRunner\CrossRunner\obj\Debug\CrossRunner.dll
+c:\users\diogo.silva\documents\visual studio 2010\Projects\CrossRunner\CrossRunner\obj\Debug\CrossRunner.pdb
